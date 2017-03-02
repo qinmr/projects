@@ -1,0 +1,1 @@
+include ':app', ':Material-Animations', ':Meizhi', ':libraries:smooth-app-bar-layout', ':libraries:headsupcompat'
